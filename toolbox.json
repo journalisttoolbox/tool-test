@@ -1,2 +1,15 @@
 {
+	"name": "R", 
+	"developer": "R Core Team",
+	"description": "R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platformss, Windows and MacOS.",
+	"version": "3.2.1",
+	"price": 0,
+	"urls":{
+	"home": "http://www.r-project.org/",
+	"download": "http://cran.r-project.org/mirrors.html",
+	"github": ""
+	},
+	"platforms": ["Windows"],
+	"companies": ["The New York Times"],
+	"categories": ["Maps"]
 }
