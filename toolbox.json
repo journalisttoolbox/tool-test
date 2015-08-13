@@ -4,10 +4,11 @@
 	"description": "R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platformss, Windows and MacOS.",
 	"version": "3.2.1",
 	"price": 0,
+  "free": true,
 	"urls":{
-	"home": "http://www.r-project.org/",
-	"download": "http://cran.r-project.org/mirrors.html",
-	"github": ""
+	"home_url": "http://www.r-project.org/",
+	"download_url": "http://cran.r-project.org/mirrors.html",
+	"github_url": "http://github.com/journalisttoolbox/tool-test"
 	},
 	"platforms": ["Windows"],
 	"companies": ["The New York Times"],
