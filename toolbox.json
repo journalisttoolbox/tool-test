@@ -2,6 +2,10 @@
 	"name": "R", 
 	"developer": "R Core Team",
 	"description": "R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.",
+	"tutorials": "http://example.com",
+	"documentation": "Some documentation",
+	"custom": "Some customizability",
+	"installation": "Some Installation",
 	"version": "3.2.1",
 	"price": 0,
   "free": true,
@@ -10,5 +14,5 @@
 	"github_url": "http://github.com/journalisttoolbox/tool-test",
 	"platforms": ["Windows"],
 	"companies": ["The New York Times"],
-	"categories": ["Maps"]
+	"categories": ["Maps", "Design"]
 }
