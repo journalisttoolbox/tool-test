@@ -8,7 +8,7 @@
 	"installation": "Some Installation",
 	"version": "3.2.1",
 	"price": 0,
-  "free": true,
+  	"free": true,
 	"home_url": "http://www.r-project.org/",
 	"logo_url": "http://www.underconsideration.com/brandnew/archives/google_2015_logo_detail.png",
 	"download_url": "http://cran.r-project.org/mirrors.html",
