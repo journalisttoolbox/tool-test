@@ -13,6 +13,6 @@
 	"download_url": "http://cran.r-project.org/mirrors.html",
 	"github_url": "http://github.com/journalisttoolbox/tool-test",
 	"platforms": ["Windows"],
-	"companies": ["The New York Times"],
+	"companies": ["TheNewYorkTimes"],
 	"categories": ["Maps", "Design"]
 }
