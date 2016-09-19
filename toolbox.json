@@ -8,12 +8,12 @@
 	"installation": "Some Installation",
 	"version": "3.2.1",
 	"price": 0,
-  	"free": true,
 	"home_url": "http://www.r-project.org/",
 	"logo_url": "http://www.underconsideration.com/brandnew/archives/google_2015_logo_detail.png",
 	"download_url": "http://cran.r-project.org/mirrors.html",
 	"github_url": "http://github.com/journalisttoolbox/tool-test",
 	"platforms": ["Windows"],
 	"companies": ["The New York Times"],
-	"categories": ["Maps", "Design"]
+	"categories": ["Maps", "Design"],
+	"platforms": ["MacOS", "Web"]
 }
